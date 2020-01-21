@@ -1,4 +1,4 @@
-document.addEventListener('D0MContentLoaded' function() {
+document.addEventListener('DOMContentLoaded', function() {
 
   var buttons = document.querySelectorAll('.btn');
 
